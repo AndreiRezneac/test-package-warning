@@ -1,0 +1,11 @@
+{
+    "name": "ar/test-package-warning",
+    "description": "Will use packages.json to display a warning during composer commands",
+    "require": {
+        "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0",
+        "guzzlehttp/guzzle": "^6.0",
+        "ramsey/uuid": "^3.7",
+        "psr/log": "^1.0"
+    }
+}
+

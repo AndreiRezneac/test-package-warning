@@ -1,0 +1,5 @@
+{
+    "packages": {},
+    "warning": "WARNING: This works only for certain versions of the mai app.",
+    "warning-versions": ">=0.0.1"
+}
