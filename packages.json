@@ -5,9 +5,8 @@
                 "name": "ar/test-package-warning",
                 "version": "1.0.0",
                 "source": {
-                    "type": "svn",
-                    "url": "https://github.com/AndreiRezneac/test-package-warning.git",
-                    "reference": "",
+                    "type": "composer",
+                    "url": "https://github.com/AndreiRezneac/test-package-warning.git"
                 }
             }
         }
