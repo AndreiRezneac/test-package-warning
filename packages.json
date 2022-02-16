@@ -1,8 +1,14 @@
 {
     "packages": {
         "ar/test-package-warning": {
-            "dev-main": { @composer.json },
-            "1.0.0": { @composer.json }
+            "1.0.0": { 
+                "name": "ar/test-package-warning",
+                "version": "1.0.0",
+                "source": {
+                    "url": "https://github.com/AndreiRezneac/test-package-warning.git",
+                    "type": "git"                    
+                }
+            }
         }
     },
     "warning": "WARNING: This works only for certain versions of the mai app.",
