@@ -6,7 +6,8 @@
                 "version": "1.0.0",
                 "source": {
                     "type": "composer",
-                    "url": "https://github.com/AndreiRezneac/test-package-warning.git"
+                    "url": "https://github.com/AndreiRezneac/test-package-warning.git",
+                    "reference": ""
                 }
             }
         }
