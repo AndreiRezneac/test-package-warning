@@ -1,5 +1,10 @@
 {
-    "packages": {},
+    "packages": {
+        "ar/test-package-warning": {
+            "dev-main": { @composer.json },
+            "1.0.0": { @composer.json }
+        }
+    },
     "warning": "WARNING: This works only for certain versions of the mai app.",
     "warning-versions": ">=0.0.1"
 }
